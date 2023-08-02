@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jossline
-- 👀 I’m interested in machine and deep learning 
+- 👀 I’m interested in machine and deep learning and data analysis
 - 🌱 I’m currently learning data science for finance
 - 💞️ I’m looking to collaborate on real projects in data science
 - 📫 Reach me by DM 
